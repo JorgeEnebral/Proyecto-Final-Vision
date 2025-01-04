@@ -14,8 +14,9 @@ calibrar_camara:
 - calibrar_camara.py    obtiene parámetros internos, coeficientes de distorsión y error de reproyección de la cámara
 - fotos_calibracion     directorio de fotos para la calibración
 
-CARPETA PEDRO:
--   
+sistema_seguridad:
+- contrasena.py         codigo que al ejecutar enciende la cámara para introducir la contraseña live
+- video_live.           video de ejemplo de una ejecución para ver el funcionamiento 
 
 sistema_propuesto:
 - radar.py              procesa el video
