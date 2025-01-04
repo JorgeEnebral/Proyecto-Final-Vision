@@ -16,7 +16,7 @@ calibrar_camara:
 
 sistema_seguridad:
 - contrasena.py         codigo que al ejecutar enciende la cámara para introducir la contraseña live
-- video_live.           video de ejemplo de una ejecución para ver el funcionamiento 
+- video_live.mkv        video de ejemplo de una ejecución para ver el funcionamiento 
 
 sistema_propuesto:
 - radar.py              procesa el video
